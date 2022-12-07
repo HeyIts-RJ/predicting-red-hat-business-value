@@ -1,0 +1,84 @@
+People data null values : 
+
+people_id      0
+ppl_char_1     0
+ppl_group      0
+ppl_char_2     0
+ppl_date       0
+ppl_char_3     0
+ppl_char_4     0
+ppl_char_5     0
+ppl_char_6     0
+ppl_char_7     0
+ppl_char_8     0
+ppl_char_9     0
+ppl_char_10    0
+ppl_char_11    0
+ppl_char_12    0
+ppl_char_13    0
+ppl_char_14    0
+ppl_char_15    0
+ppl_char_16    0
+ppl_char_17    0
+ppl_char_18    0
+ppl_char_19    0
+ppl_char_20    0
+ppl_char_21    0
+ppl_char_22    0
+ppl_char_23    0
+ppl_char_24    0
+ppl_char_25    0
+ppl_char_26    0
+ppl_char_27    0
+ppl_char_28    0
+ppl_char_29    0
+ppl_char_30    0
+ppl_char_31    0
+ppl_char_32    0
+ppl_char_33    0
+ppl_char_34    0
+ppl_char_35    0
+ppl_char_36    0
+ppl_char_37    0
+ppl_char_38    0
+dtype: int64
+-----------------------------------------------------------------
+
+Train data null values : 
+
+people_id                  0
+activity_id                0
+act_date                   0
+activity_category          0
+act_char_1           2039676
+act_char_2           2039676
+act_char_3           2039676
+act_char_4           2039676
+act_char_5           2039676
+act_char_6           2039676
+act_char_7           2039676
+act_char_8           2039676
+act_char_9           2039676
+act_char_10           157615
+outcome                    0
+dtype: int64
+-----------------------------------------------------------------
+
+Test data null values : 
+
+people_id                 0
+activity_id               0
+act_date                  0
+activity_category         0
+act_char_1           458595
+act_char_2           458595
+act_char_3           458595
+act_char_4           458595
+act_char_5           458595
+act_char_6           458595
+act_char_7           458595
+act_char_8           458595
+act_char_9           458595
+act_char_10           40092
+dtype: int64
+-----------------------------------------------------------------
